@@ -19,9 +19,27 @@
  \__,_|_|    \_/\_/  |_|_|\__,_|\___||___/\__|_|  \___/|_| |_|
                       WiFiDAEMON 😈 v0.1.0
               "Silent Guardian of the Airwaves"
+<div align="center">
 
+# 👿 WiFiDaemon
+
+### *"Silent Guardian of the Airwaves"*
+
+![Rust](https://img.shields.io/badge/Made_with-Rust-orange?style=for-the-badge&logo=rust)
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-Termux%20%7C%20Linux-lightgrey?style=for-the-badge)
 
 ---
+
+```text
+           __        ___ _     _
+ _      _  \ \      / (_) | __| | ___  ___| |_ _ __ ___  _ __
+| | | | |  \ \ /\ / /| | |/ _` |/ _ \/ __| __| '__/ _ \| '_ \
+| |_| | |   \ V  V / | | | (_| |  __/\__ \ |_| | | (_) | | | |
+ \__,_|_|    \_/\_/  |_|_|\__,_|\___||___/\__|_|  \___/|_| |_|
+                      WiFiDAEMON 😈 v0.1.0
+              "Silent Guardian of the Airwaves"
 
 </div>WiFiDaemon is a Rust-powered wireless security daemon that captures, replays, and analyzes Wi-Fi management traffic.
 It’s designed for ethical security research, penetration-testing education, and network telemetry visualization.
@@ -105,7 +123,7 @@ Unauthorized interception of networks you don’t own or have permission to test
 
 🧠 Author
 
-Created by Chinedu
+Created by Chinedu — @umenyi-bryan
 Built with 💻, ☕, and a fascination for wireless magic.
 
 
