@@ -24,12 +24,6 @@
 # 👿 WiFiDaemon
 
 ### *"Silent Guardian of the Airwaves"*
-
-![Rust](https://img.shields.io/badge/Made_with-Rust-orange?style=for-the-badge&logo=rust)
-![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Termux%20%7C%20Linux-lightgrey?style=for-the-badge)
-
 ---
 
 ```text
@@ -81,21 +75,6 @@ cargo build --release
 or to replay a .pcap file:
 
 ./target/release/wifidaemon_daemon --pcap-file your_capture.pcap --output-json beacon_log.json
-
-
----
-
-🧰 Project Structure
-
-Wifidaemon/
- ├── daemon/                 # Core Rust engine
- │   ├── src/main.rs         # Daemon entry point
- │   ├── Cargo.toml
- │   └── target/release/     # Compiled binary
- ├── examples/               # JSON log samples
- ├── README.md               # You’re reading this
- └── LICENSE
-
 
 ---
 
